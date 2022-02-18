@@ -1,0 +1,30 @@
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 39
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 39
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 43
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 43
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 56
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 56
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 81
+[05-Feb-2021 17:37:16 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 81
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 39
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 39
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 43
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 43
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 56
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 56
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 81
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 81
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 39
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 39
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 43
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 43
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 56
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 56
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 81
+[05-Feb-2021 17:37:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/pers9547/public_html/trip-pedia.com/theme/default/users.php on line 81
+[05-Feb-2021 18:38:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pers9547/public_html/trip-pedia.com/app/inc/Main.class.php on line 248
+[05-Feb-2021 18:38:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pers9547/public_html/trip-pedia.com/app/inc/Main.class.php on line 248
+[05-Feb-2021 18:38:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pers9547/public_html/trip-pedia.com/app/inc/Main.class.php on line 248
+[05-Feb-2021 18:38:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pers9547/public_html/trip-pedia.com/app/inc/Main.class.php on line 248
+[05-Feb-2021 18:38:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pers9547/public_html/trip-pedia.com/app/inc/Main.class.php on line 248
+[05-Feb-2021 18:48:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pers9547/public_html/trip-pedia.com/app/inc/Main.class.php on line 248
